@@ -13,7 +13,7 @@ let num1 = parseFloat(prompt("Ingresa el primer número:"));
 let num2 = parseFloat(prompt("Ingresa el segundo número:"));
 let resultado;
 
-if (operacion === "sumar") {
+/* if (operacion === "sumar") {
    resultado = num1 + num2;
 } else if (operacion === "restar") {
   resultado = num1 - num2;
@@ -29,5 +29,6 @@ if (operacion === "sumar") {
   resultado = "Operación no válida.";
 }
 
-alert("El resultado es: " + resultado);
+alert("El resultado es: " + resultado); */
 
+console.log('tu. numero wa ${num1}')
