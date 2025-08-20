@@ -238,3 +238,14 @@ else {
 }
 */
 
+//ejericio extra
+
+let frutas = [];
+for (let i = 0; i < 8; i++) {
+    let fruta = prompt("Ingrese el nombre de una fruta:");
+    frutas.push(fruta);
+}
+document.write("<ol>");
+for (let i = 0; i < frutas.length; i++) {
+    document.write("<li>" + frutas[i] + "</li>");
+}
