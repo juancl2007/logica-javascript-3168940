@@ -1,3 +1,5 @@
+//Juan Camilo López y Daniel Hincapié
+
 //ejercicio 1
 /*
 let num = Number(prompt("Ingrese un número:"));
